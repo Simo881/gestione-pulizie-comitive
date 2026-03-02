@@ -1,0 +1,18 @@
+{
+  "name": "Pulizia App",
+  "short_name": "Pulizia",
+  "description": "Gestione programmi pulizie e comitive",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f4f8",
+  "theme_color": "#0f3460",
+  "icons": [
+    {
+      "src": "pulizia_app.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
